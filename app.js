@@ -12,3 +12,8 @@ function addobject(){
 addobject()
 
 
+function removeobject(){
+    Myarry.pop()
+    console.log(Myarry);
+}
+removeobject()
