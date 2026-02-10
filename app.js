@@ -18,6 +18,7 @@ function removeobject(){
 }
 removeobject()
 
+
 // adding two numbers
 function add(num1,num2){
     const result= num1+num2;
