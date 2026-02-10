@@ -17,3 +17,11 @@ function removeobject(){
     console.log(Myarry);
 }
 removeobject()
+
+// adding two numbers
+function add(num1,num2){
+    const result= num1+num2;
+    console.log(`the sum of ${num1} and ${num2} is ${result}`);
+}
+
+add(5,10)
